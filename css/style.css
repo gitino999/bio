@@ -17,9 +17,10 @@
     background-color: rgb(250, 245, 160);
 }
 
+/* background image */
 #biodiversityimage {
     background-color: skyblue;
-    background-image: url(../img/ScienceReview.png);
+    background-image: url(../img/sciencereview.png);
     background-size: cover;
 
     
