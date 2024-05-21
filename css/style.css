@@ -16,3 +16,7 @@
 .red{
     background-color: rgb(250, 245, 160);
 }
+
+#biodiversity image {
+    background-image: url(../img/GBIF enables global study of climate impact on species.jpg);
+}
